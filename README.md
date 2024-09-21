@@ -4,22 +4,22 @@
   </p>
 <p align="center">
 <p align="center">
-<a href="https://github.com/boru-to/KATAKURI"><img title="Author" src="https://img.shields.io/badge/KATAKURI-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/boru-to/KATAKURI_MD"><img title="Author" src="https://img.shields.io/badge/KATAKURI_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/boru-to?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/boru-to/KATAKURI/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boru-to/KATAKURI?&style=social"></a>
+<a href="https://github.com/boru-to?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/boru-to?label=Followers&style=social"></a>
+<a href="https://github.com/boru-to/KATAKURI_MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boru-to/KATAKURI_MD?&style=social"></a>
  
 ## KATAKURI_MD Deployment Methods
 
 ### 1. FORK THIS REPO
 
-<a href="https://github.com/boru-to/KATAKURI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boru-to/KATAKURI?style=social"></a>
-<a href="https://github.com/boru-to/KATAKURI/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boru-to/KATAKURI?label=Watching&style=social"></a>
+<a href="https://github.com/boru-to/KATAKURI_MF/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boru-to/KATAKURI_MD?style=social"></a>
+<a href="https://github.com/boru-to/KATAKURI_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boru-to/KATAKURI_MD?label=Watching&style=social"></a>
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://david-session-olzw.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://apppp-4a1971b28792.herokuapp.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### DEPLOY ON RENDER
 
@@ -41,15 +41,15 @@
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/boru-to/KATAKURI' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/boru-to/KATAKURI_MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github//boru-to/KATAKURI target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github//boru-to/KATAKURI_MD target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
-    <a href='https://railway.com/github//boru-to/KATAKURI target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://railway.com/github//boru-to/KATAKURI_MD target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## KATAKURI_MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
