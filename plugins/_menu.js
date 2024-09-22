@@ -33,7 +33,7 @@ const database_info = (() => {
 astro_patch.smd({
   'cmdname': "menu",
   'desc': "Help list",
-  'react': '🍁',
+  'react': '😎',
   'desc': "To show all available commands.",
   'type': 'user',
   'filename': __filename
@@ -90,7 +90,7 @@ astro_patch.smd({
       });
     }
     
-    menuContent += footer + "\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 *" + Config.botname + "*!\n©𝙷𝙰𝙺𝙸\n" + readmore;
+    menuContent += footer + "\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 RAGE🤲 *" + Config.botname + "*!\n©𝙷katakuri\n" + readmore;
 
     const response = {
       'caption': menuContent,
