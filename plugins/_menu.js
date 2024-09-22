@@ -75,18 +75,18 @@ astro_patch.smd({
     const footer = "┗━━━━━━━━━━━━━━✿︎";
 
     let menuContent = header;
-    menuContent += lineSeparator + "🍀 *𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴:* " + Config.ownername + "\n";
-    menuContent += lineSeparator + "🍀 *𝚄𝙿𝚃𝙸𝙼𝙴:* " + runtime(process.uptime()) + "\n";
-    menuContent += lineSeparator + "🍀 *𝚁𝙰𝙼 𝚄𝚂𝙴:* " + formatp(os.totalmem() - os.freemem()) + "\n";
-    menuContent += lineSeparator + "🍀 *𝙳𝙰𝚃𝙴:* " + currentDate + "\n";
-    menuContent += lineSeparator + "🍀 *𝙱𝙾𝚃 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂:* " + commands.length + "\n";
+    menuContent += lineSeparator + "✨ *𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴:* " + Config.ownername + "\n";
+    menuContent += lineSeparator + "✨ *𝚄𝙿𝚃𝙸𝙼𝙴:* " + runtime(process.uptime()) + "\n";
+    menuContent += lineSeparator + "✨ *𝚁𝙰𝙼 𝚄𝚂𝙴:* " + formatp(os.totalmem() - os.freemem()) + "\n";
+    menuContent += lineSeparator + "✨ *𝙳𝙰𝚃𝙴:* " + currentDate + "\n";
+    menuContent += lineSeparator + "✨ *𝙱𝙾𝚃 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂:* " + commands.length + "\n";
     menuContent += lineSeparator + greeting + "\n";
 
     // List commands by category
     for (const category in commandCategories) {
       menuContent += commandPrefix + " *" + tiny(category) + "* " + commandSuffix + "\n";
       commandCategories[category].forEach(cmd => {
-        menuContent += "┃   ✅ " + fancytext(cmd, 1) + "\n";
+        menuContent += "┃   🫴 " + fancytext(cmd, 1) + "\n";
       });
     }
     
