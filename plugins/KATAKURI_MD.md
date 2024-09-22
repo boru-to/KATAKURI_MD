@@ -1,1 +1,1 @@
-https://telegra.ph/file/b065f0f673cae5452c358.jpg
+https://telegra.ph/file/cad7038fe82e47f79c609.jpg
