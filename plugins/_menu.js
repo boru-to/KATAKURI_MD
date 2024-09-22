@@ -68,10 +68,10 @@ astro_patch.smd({
     });
 
     // Set the desired menu design
-    const header = "┏━━👉 *" + Config.botname + "* 👈━━✿︎\n";
+    const header = "┏━━✨ *" + Config.botname + "* ✨━━✿︎\n";
     const lineSeparator = "┃ ";
-    const commandPrefix = "┏━━👉";
-    const commandSuffix = "👈━━✿︎";
+    const commandPrefix = "┏━━🤞";
+    const commandSuffix = "🤞━━✿︎";
     const footer = "┗━━━━━━━━━━━━━━✿︎";
 
     let menuContent = header;
@@ -86,11 +86,11 @@ astro_patch.smd({
     for (const category in commandCategories) {
       menuContent += commandPrefix + " *" + tiny(category) + "* " + commandSuffix + "\n";
       commandCategories[category].forEach(cmd => {
-        menuContent += "┃   🍀 " + fancytext(cmd, 1) + "\n";
+        menuContent += "┃   ✅ " + fancytext(cmd, 1) + "\n";
       });
     }
     
-    menuContent += footer + "\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 RAGE🤲 *" + Config.botname + "*!\n©𝙷katakuri\n" + readmore;
+    menuContent += footer + "\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 RAGE🤲 *" + Config.botname + "*!\n©katakuri\n" + readmore;
 
     const response = {
       'caption': menuContent,
