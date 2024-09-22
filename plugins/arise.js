@@ -5,8 +5,8 @@ const { smd } = require("../lib");
 // Command definitio
 smd(
   {
-    pattern: "alive", // Command trigger
-    react: "👸", // Reaction when the command is run
+    pattern: "arise", // Command trigger
+    react: "🫴", // Reaction when the command is run
     desc: "Check bot's status, speed, and latency with channel link", // Command description
     category: "misc", // Command category
     filename: __filename, // Filename reference
@@ -22,14 +22,14 @@ smd(
 
     // Final message with latency, speed, and channel link
     const finalMessage = `
-👸 *Queen Nikka is Alive!*
+🫴 *KATAKURI_MD is Arised!*
 
 *Latency:* ${latency}ms
 *Speed:* Fast as always🚀
 
 *Channel Link:* (${channelLink})
 
-*LONG LIVE THE QUEEN 👸*
+*LONG ARISED KATAKURI_MD*
     `;
 
     // Send the final message directly (no initial message)
@@ -44,21 +44,21 @@ smd(
 smd(
   {
     pattern: "abbt", // Command trigger
-    react: "👸", // Reaction when the command is run
+    react: "🎊", // Reaction when the command is run
     desc: "Shows if the bot is alive and displays important information", // Command description
     category: "misc", // Command category
     filename: __filename, // Filename reference
   },
   async (message) => {
-    const owner = "HAKI"; // Owner name
-    const repoLink = "https://github.com/hakisolos/queen_nikka"; // Repository link
-    const channelLink = "https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L"; // Channel link
-    const whatsappGroupLink = "https://chat.whatsapp.com/CdF4bo9NLcSBP8ThD2tDko"; // WhatsApp Group link
+    const owner = "KATAKURI"; // Owner name
+    const repoLink = "https://github.com/boru-to/KATAKURI_MD"; // Repository link
+    const channelLink = "https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g"; // Channel link
+    const whatsappGroupLink = "https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g"; // WhatsApp Group link
     const uptime = runtime(process.uptime()); // Get bot uptime
 
     // Prepare the final message content
     const finalMessage = `
-👸 `Queen Nikka MD`
+🫴 `KATAKURI MD`
 
 *Owner:* ${owner}
 
@@ -71,11 +71,11 @@ smd(
 
 *WhatsApp Group:* (${whatsappGroupLink})
 
-*Made With love by Haki❤️*
+*Made With RAGE🤲 by KATAKURI🫴*
 
 *Bot Uptime:* ${uptime}
 
-*LONG LIVE THE QUEEN 👸*
+*LONG ARISED KATAKURI_MD🫴*
 `;
 
     // Send the final message
