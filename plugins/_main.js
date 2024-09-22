@@ -19,7 +19,7 @@ const os = require("os");
 const speed = require("performance-now");
 smd(
   {
-    pattern: "nikkaai",
+    pattern: "katai",
     desc: "Generate an AI photo.",
     react: "🤖,"
     category: "nsfw",
@@ -94,7 +94,7 @@ smd(
 );
 smd({
   pattern: "readmore",
-  react: "🍀"
+  react: "👀"
   alias: ["rmore", "readmor"],
   desc: "Adds *readmore* in given text.",
   category: "general",
@@ -119,7 +119,7 @@ smd({
 let pmtypes = ["videoMessage", "imageMessage"];
 cmd({
   pattern: "url",
-  react: "👍",
+  react: "✅",
   alias: ["createurl"],
   category: "general",
   filename: __filename,
