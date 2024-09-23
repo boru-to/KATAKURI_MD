@@ -33,11 +33,10 @@ let timenow =`
 ╭────────────────╮
 │    *${wish}* 
 │     *ᴛɪᴍᴇ* ⌚ ${time} 
-│     *Date* 🎲   ${date} 
-│   ${Config.caption}
-|
-|
-| YES SENSEI KATAKURI IM ALIVE ✅
+│     *Date* 🎲   ${date}  
+|       ${Config.caption}
+|       
+|      YES SENSEI KATAKURI IM ALIVE ✅
 ╰────────────────╯
 `
 await message.send(timenow, {contextInfo : contextInfo },"asta",  q )
