@@ -23,10 +23,12 @@ smd(
 
     // Prepare final message with "Pong!", uptime, and latency
     const finalMessage = `
-🤖 *Pong!*
+✅ *PONG!*
 
-*Latency:* ${latency}ms
-*Uptime:* ${uptime}
+*KATAKURI HAS* ${latency}ms *MANA* 
+*KATAKURI HAS BEEN RUNNING SINCE* ${uptime}
+
+*_ARISE KATAKURI_*
     `;
 
     // Send the final message directly
