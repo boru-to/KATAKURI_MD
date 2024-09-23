@@ -23,14 +23,19 @@ smd(
 
     // Prepare final message with "Pong!", uptime, and latency
     const finalMessage = `
-✅ *PONG!*
 
-*KATAKURI HAS* ${latency}ms *MANA* 
-*KATAKURI HAS BEEN RUNNING SINCE* ${uptime}
+────────────────╮
+│  ✅ *PONG!* 'https://git.io/typing-svg'
+|
+|   *KATAKURI HAS* ${latency}ms *MANA* 'https://git.io/typing-svg'
+|
+|   *KATAKURI HAS BEEN RUNNING SINCE* ${uptime} 'https://git.io/typing-svg'
+|
+|  *_ARISE KATAKURI_* 'https://git.io/typing-svg'     
+`;  
 
-*_ARISE KATAKURI_*
-    `;
-
+╰────────────────╯
+`
     // Send the final message directly
     await message.reply(finalMessage);
   }
