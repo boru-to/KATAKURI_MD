@@ -46,7 +46,7 @@ smd({
     await _0x2c2023.bot.sendMessage(_0x2c2023.jid, {
       image: _0x3885cc,
       caption: `
-*Queen_Nikka • SONG DOWNLOADER🍀*
+*KATAKURI_MD• SONG DOWNLOADER✨*
 
 *Title :* ${_0x4123ae.title}
 *Url :* ${_0x4123ae.url}
