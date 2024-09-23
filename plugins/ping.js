@@ -4,7 +4,7 @@ const { runtime } = require("../lib"); // Assuming you have a runtime function f
 smd(
   {
     pattern: "ping", 
-    react: "🏓", 
+    react: "⏳️", 
     desc: "Check the bot's latency and uptime", 
     category: "misc",
     filename: __filename,
@@ -23,20 +23,16 @@ smd(
 
     // Prepare final message with "Pong!", uptime, and latency
     const finalMessage = `
+🤞 *ARISE!*
 
-────────────────╮
-│  ✅ *PONG!*
-|
-|  *KATAKURI HAS* ${latency}ms *MANA*
-|
-|  *KATAKURI HAS BEEN RUNNING SINCE* ${uptime}
-|
-|  *_ARISE KATAKURI_*     
-`;  
-╰────────────────╯
-`
+*KATAKURI HAS* ${latency}ms *MANA*
+
+*KATAKURI HAS BEEN RUNNING SINCE:* ${uptime}
+
+> ARISE
+    `;
+
     // Send the final message directly
     await message.reply(finalMessage);
   }
 );
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
