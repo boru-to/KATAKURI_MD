@@ -35,6 +35,8 @@ let timenow =`
 │     *ᴛɪᴍᴇ* ⌚ ${time} 
 │     *Date* 🎲   ${date} 
 │   ${Config.caption}
+|
+|
 | YES SENSEI KATAKURI IM ALIVE ✅
 ╰────────────────╯
 `
