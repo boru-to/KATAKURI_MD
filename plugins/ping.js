@@ -21,15 +21,10 @@ smd(
     // Get the bot's uptime
     const uptime = runtime(process.uptime());
 
-    // Prepare final message with "Pong!", uptime, and latency
+    // Prepare final message with "Pong!", latency
     const finalMessage = `
-🤞 *ARISE!*
-
-*KATAKURI HAS* ${latency}ms *MANA*
-
-*KATAKURI HAS BEEN RUNNING SINCE:* ${uptime}
-
-> ARISE
+*Pong* :${latency}ms
+   >KATAKURI_MD
     `;
 
     // Send the final message directly
