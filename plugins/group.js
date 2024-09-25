@@ -1218,9 +1218,9 @@ const {
 
 
 cmd({
-  pattern: "attention",
-  react: "👸",
-  desc: "Tags everyone in the group with a royal flair.",
+  pattern: "Rise",
+  react: "💀",
+  desc: "Tags everyone in the group with a shiny flair.",
   category: "group",
   filename: __filename
 }, async (_0x1ed055, _0x929954) => {
@@ -1233,12 +1233,12 @@ cmd({
       return _0x1ed055.reply(tlang().admin);
     }
 
-    // Start building the royal message with a unique style
+    // Start building the rise message with a unique style
     let messageContent = `
-🌟👑 *🌟🌟 Royal Gathering 🌟🌟* 👑🌟
+✨✨ *🔥🔥 Now Arise🫴 🔥🔥* ✨✨
 
 🎉 *Attention, esteemed members!* 🎉
-✨ You are cordially invited to join the royal assembly! ✨
+✨ You have been arised to join the assembly! ✨
 
 ➲ *Message:* ${_0x929954 ? _0x929954 : "No special message."}
 
