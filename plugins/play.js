@@ -38,7 +38,7 @@ smd({
     let _0x4342ba = await smdBuffer(_0x4f86cb.thumbnail);
     await _0x213b75.bot.sendMessage(_0x213b75.jid, {
       'image': _0x4342ba,
-      'caption': "\n*Queen_Alya • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*Title :* " + _0x4f86cb.title + "\n*Url :* " + _0x4f86cb.url + "\n*Description :* " + _0x4f86cb.timestamp + "\n*Views :* " + _0x4f86cb.views + "\n*Uploaded :* " + _0x4f86cb.ago + "\n*Author :* " + _0x4f86cb.author.name + "\n\n_Alya is singing..._\n"
+      'caption': "\n*KATAKURI_MD• ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*Title :* " + _0x4f86cb.title + "\n*Url :* " + _0x4f86cb.url + "\n*Description :* " + _0x4f86cb.timestamp + "\n*Views :* " + _0x4f86cb.views + "\n*Uploaded :* " + _0x4f86cb.ago + "\n*Author :* " + _0x4f86cb.author.name + "\n\n_katakuri is Arising the audio..._\n"
     });
     const _0x23d6e1 = "https://api-gifted-tech.onrender.com/api/download/ytmp3v2?url=" + _0x4f86cb.url + "&apikey=gifteddevskk";
     let _0x4acf6c = 3;
@@ -255,7 +255,7 @@ smd({
     await _0x2c2023.bot.sendMessage(_0x2c2023.jid, {
       image: _0x3885cc,
       caption: `
-*Queen_Alya • ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+*KATAKURI_MD• ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 
 *Title :* ${_0x4123ae.title}
 *Url :* ${_0x4123ae.url}
@@ -264,7 +264,7 @@ smd({
 *Uploaded :* ${_0x4123ae.ago}
 *Author :* ${_0x4123ae.author.name}
 
-_Alya is downloading the video..._
+_katakuri is downloading the video..._
 `
     });
 
