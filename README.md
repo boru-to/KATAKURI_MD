@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +KATAKURI_MD;MULTI+DEVICE+WHATSAPP+BOT;ARISED+BY+KATAKURI" alt="Typing SVG" /></a>
   </p>
-    <img alt="KATAKURI_MD" width="600" height="800" src="https://files.catbox.moe/23fcdx.jpg">
+    <img alt="KATAKURI_MD" width="300" height="400" src="https://files.catbox.moe/23fcdx.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/boru-to/KATAKURI_MD"><img title="Author" src="https://img.shields.io/badge/KATAKURI_MD-blue?style=for-the-badge&logo=github"></a>
@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/boru-to/KATAKURI_MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://arthur-scanner.onrender.com/qr) Or [`PAIRING CODE`](https://king-france.vercel.app) or [`PAIR CODE 2`](https://apppp-4a1971b28792.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://arthur-scanner.onrender.com/qr) Or [`PAIR CODE`](https://apppp-4a1971b28792.herokuapp.com/pair)***
 
 * - Copy The Session ID for it Will be needed during deployment*
 
