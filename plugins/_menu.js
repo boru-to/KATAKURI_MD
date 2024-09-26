@@ -37,9 +37,9 @@ let currentDesignIndex = 0;
 function getNextMenuDesign() {
   const designs = [
     {
-      header: "┏━━⟪ *{botname}* ⟫━━⦿\n",
+      header: "┏━━✨ *{botname}* ✨━━⦿\n",
       lineSeparator: "┃ ",
-      commandPrefix: "✨ ",
+      commandPrefix: "🌟 ",
       footer: "━━━━━━━━━━━━━━━",
       emoji: "🫳",
       greetingText: "Welcome to your serene command center!",
@@ -47,7 +47,7 @@ function getNextMenuDesign() {
     {
       header: "━━━[ *{botname}* ]━━━\n",
       lineSeparator: "┃ ",
-      commandPrefix: "⭐ ",
+      commandPrefix: "🌟 ",
       footer: "━━━━━━━━━━━",
       emoji: "🌟",
       greetingText: "Enjoy the magical commands!",
@@ -124,7 +124,7 @@ astro_patch.smd({
     menuContent += `${lineSeparator}🫴 *Owner:* ${Config.ownername}\n`;
     menuContent += `${lineSeparator}🕒 *Uptime:* ${runtime(process.uptime())}\n`;
     menuContent += `${lineSeparator}💻 *RAM Usage:* ${formatp(os.totalmem() - os.freemem())}\n`;
-    menuContent += `${lineSeparator} 📅*Date:* $  {currentDate}\n`;
+    menuContent += `${lineSeparator} 📅*Date:* ${currentDate}\n`;
     menuContent += `${lineSeparator}📊 *Total Commands:* ${commands.length}\n`;
     menuContent += `${lineSeparator}${greeting}\n\n`;
 
