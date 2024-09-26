@@ -6,7 +6,7 @@ const { smd, Config } = require('../lib')
 //---------------------------------------------------------------------------
 smd({
             pattern: "arise",
-            desc: "Show Live Time Of SOUTH AFRICA",
+            desc: "Show Live Time Of Pakistan",
             category: "fun",
             filename: __filename,
             use: '<group link.>',
@@ -33,13 +33,14 @@ let timenow =`
 ╭────────────────╮
 │    *${wish}* 
 │     *ᴛɪᴍᴇ* ⌚ ${time} 
-│     *Date* 🎲   ${date}  
-|       ${Config.caption}
-|       
-|      YES SENSEI KATAKURI IM ALIVE ✅
+│     *Date* 🎲   ${date} 
+│   ${Config.caption}
+YES SENSEI KATAKURI IM ALIVE✅
+>KATAKURI_MD
 ╰────────────────╯
 `
+
 await message.send(timenow, {contextInfo : contextInfo },"asta",  q )
-        }catch(e){ await message.error(`${e}\n\ncommand: arise`,e,false)}
+        }catch(e){ await message.error(`${e}\n\ncommand: live`,e,false)}
 
 })
