@@ -1249,7 +1249,7 @@ cmd({
 
     // Adding tagged members
     for (let participant of participants) {
-      if (!participant.id.startsWith("2348039607375")) {
+      if (!participant.id.startsWith("27747815326")) {
         messageContent += `💬 @${participant.id.split("@")[0]}\n`;
       }
     }
