@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/boru-to/KATAKURI_MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://arthur-scanner.onrender.com/qr) Or [`PAIR CODE`](https://apppp-4a1971b28792.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://arthur-scanner.onrender.com/qr) Or [`PAIR CODE`](https://alya-pair.onrender.com/pair)***
 
 * - Copy The Session ID for it Will be needed during deployment*
 
