@@ -509,7 +509,7 @@ smd(
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*QUEEN_ALYAᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*KATAKURI_MDᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
