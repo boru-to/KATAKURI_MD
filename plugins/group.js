@@ -1218,7 +1218,7 @@ const {
 
 
 cmd({
-  pattern: "Rise",
+  pattern: "rise",
   react: "💀",
   desc: "Tags everyone in the group with a shiny flair.",
   category: "group",
